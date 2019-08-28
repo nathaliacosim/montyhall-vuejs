@@ -1,0 +1,1106 @@
+{
+  "786|@vue/cli-plugin-babel>@babel/core>micromatch>braces": {
+    "fix": 1
+  },
+  "826|@vue/cli-service>webpack-bundle-analyzer": {
+    "fix": 1
+  },
+  "725|@vue/cli-service>webpack-dev-server": {
+    "fix": 1
+  },
+  "803|@vue/cli-service>webpack-dev-server>chokidar>fsevents>node-pre-gyp>tar": {
+    "fix": 1
+  },
+  "788|@vue/cli-plugin-eslint>eslint>js-yaml": {
+    "fix": 1
+  },
+  "788|@vue/cli-service>@intervolga/optimize-cssnano-plugin>cssnano>cosmiconfig>js-yaml": {
+    "fix": 1
+  },
+  "788|@vue/cli-service>cssnano>cosmiconfig>js-yaml": {
+    "fix": 1
+  },
+  "788|@vue/cli-service>@intervolga/optimize-cssnano-plugin>cssnano>cssnano-preset-default>postcss-svgo>svgo>js-yaml": {
+    "fix": 1
+  },
+  "788|@vue/cli-service>cssnano>cssnano-preset-default>postcss-svgo>svgo>js-yaml": {
+    "fix": 1
+  },
+  "788|@vue/cli-service>@intervolga/optimize-cssnano-plugin>cssnano-preset-default>postcss-svgo>svgo>js-yaml": {
+    "fix": 1
+  },
+  "788|@vue/cli-service>postcss-loader>postcss-load-config>cosmiconfig>js-yaml": {
+    "fix": 1
+  },
+  "813|@vue/cli-plugin-eslint>eslint>js-yaml": {
+    "fix": 1
+  },
+  "813|@vue/cli-service>@intervolga/optimize-cssnano-plugin>cssnano>cosmiconfig>js-yaml": {
+    "fix": 1
+  },
+  "813|@vue/cli-service>cssnano>cosmiconfig>js-yaml": {
+    "fix": 1
+  },
+  "813|@vue/cli-service>@intervolga/optimize-cssnano-plugin>cssnano>cssnano-preset-default>postcss-svgo>svgo>js-yaml": {
+    "fix": 1
+  },
+  "813|@vue/cli-service>cssnano>cssnano-preset-default>postcss-svgo>svgo>js-yaml": {
+    "fix": 1
+  },
+  "813|@vue/cli-service>@intervolga/optimize-cssnano-plugin>cssnano-preset-default>postcss-svgo>svgo>js-yaml": {
+    "fix": 1
+  },
+  "813|@vue/cli-service>postcss-loader>postcss-load-config>cosmiconfig>js-yaml": {
+    "fix": 1
+  },
+  "803|@vue/cli-service>webpack>watchpack>chokidar>fsevents>node-pre-gyp>tar": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>globby>fast-glob>micromatch>braces>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>globby>fast-glob>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>globby>fast-glob>micromatch>extglob>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>globby>fast-glob>micromatch>nanomatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>micromatch>nanomatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>nanomatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>nanomatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>nanomatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>nanomatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>nanomatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>globby>fast-glob>micromatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>micromatch>braces>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>micromatch>extglob>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>micromatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>braces>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>braces>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>extglob>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>extglob>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>braces>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>braces>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>braces>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>braces>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>extglob>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>extglob>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>braces>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>extglob>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>snapdragon>base>cache-base>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>globby>fast-glob>micromatch>braces>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>globby>fast-glob>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>globby>fast-glob>micromatch>extglob>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>globby>fast-glob>micromatch>nanomatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>micromatch>nanomatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>nanomatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>nanomatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>nanomatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>nanomatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>nanomatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>globby>fast-glob>micromatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>micromatch>braces>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>micromatch>extglob>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>micromatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>braces>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>braces>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>extglob>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>extglob>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>braces>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>braces>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>braces>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>braces>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>extglob>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>extglob>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>braces>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>extglob>expand-brackets>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>extglob>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1012|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>snapdragon>base>cache-base>union-value>set-value": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>globby>fast-glob>micromatch>braces>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>globby>fast-glob>micromatch>extglob>expand-brackets>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>globby>fast-glob>micromatch>extglob>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>globby>fast-glob>micromatch>nanomatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>micromatch>nanomatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>nanomatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>nanomatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>nanomatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>nanomatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>nanomatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>globby>fast-glob>micromatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>micromatch>braces>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>micromatch>extglob>expand-brackets>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>micromatch>extglob>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>micromatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>braces>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>braces>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>extglob>expand-brackets>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>extglob>expand-brackets>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>extglob>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>extglob>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>watchpack>chokidar>anymatch>micromatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>chokidar>anymatch>micromatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>watchpack>chokidar>braces>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>chokidar>braces>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>braces>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>braces>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>extglob>expand-brackets>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>extglob>expand-brackets>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>extglob>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>extglob>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack>watchpack>chokidar>readdirp>micromatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>chokidar>readdirp>micromatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>braces>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>extglob>expand-brackets>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>extglob>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1013|@vue/cli-service>webpack-dev-server>http-proxy-middleware>micromatch>snapdragon>base>mixin-deep": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-exponentiation-operator>@babel/helper-builder-binary-assignment-operator-visitor>@babel/helper-explode-assignable-expression>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-call-delegate>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-exponentiation-operator>@babel/helper-builder-binary-assignment-operator-visitor>@babel/helper-explode-assignable-expression>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-call-delegate>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-define-map>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-function-name>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/helper-simple-access>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-module-transforms>@babel/helper-simple-access>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-umd>@babel/helper-module-transforms>@babel/helper-simple-access>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-simple-access>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-module-transforms>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-umd>@babel/helper-module-transforms>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-exponentiation-operator>@babel/helper-builder-binary-assignment-operator-visitor>@babel/helper-explode-assignable-expression>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-call-delegate>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-define-map>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-function-name>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-exponentiation-operator>@babel/helper-builder-binary-assignment-operator-visitor>@babel/helper-explode-assignable-expression>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-call-delegate>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-define-map>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-function-name>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-exponentiation-operator>@babel/helper-builder-binary-assignment-operator-visitor>@babel/helper-explode-assignable-expression>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-call-delegate>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-module-transforms>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-umd>@babel/helper-module-transforms>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-exponentiation-operator>@babel/helper-builder-binary-assignment-operator-visitor>@babel/helper-explode-assignable-expression>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-call-delegate>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/helper-member-expression-to-functions>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/helper-member-expression-to-functions>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/helper-member-expression-to-functions>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/helper-optimise-call-expression>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/helper-optimise-call-expression>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/helper-optimise-call-expression>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-optimise-call-expression>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-transform-runtime>@babel/helper-module-imports>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/helper-module-imports>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-module-imports>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/helper-module-imports>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-module-transforms>@babel/helper-module-imports>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-umd>@babel/helper-module-transforms>@babel/helper-module-imports>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-annotate-as-pure>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-annotate-as-pure>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-annotate-as-pure>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-template-literals>@babel/helper-annotate-as-pure>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-define-map>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-exponentiation-operator>@babel/helper-builder-binary-assignment-operator-visitor>@babel/helper-explode-assignable-expression>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-exponentiation-operator>@babel/helper-builder-binary-assignment-operator-visitor>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/helper-simple-access>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-module-transforms>@babel/helper-simple-access>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-umd>@babel/helper-module-transforms>@babel/helper-simple-access>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-simple-access>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-module-transforms>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-umd>@babel/helper-module-transforms>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-systemjs>@babel/helper-hoist-variables>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-call-delegate>@babel/helper-hoist-variables>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-call-delegate>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-exponentiation-operator>@babel/helper-builder-binary-assignment-operator-visitor>@babel/helper-explode-assignable-expression>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-call-delegate>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-exponentiation-operator>@babel/helper-builder-binary-assignment-operator-visitor>@babel/helper-explode-assignable-expression>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-call-delegate>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-define-map>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-function-name>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/helper-simple-access>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-module-transforms>@babel/helper-simple-access>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-umd>@babel/helper-module-transforms>@babel/helper-simple-access>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-simple-access>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-module-transforms>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-umd>@babel/helper-module-transforms>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/helpers>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-proposal-class-properties>@babel/helper-replace-supers>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-replace-supers>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-object-super>@babel/helper-replace-supers>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/helper-wrap-function>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-async-generator-functions>@babel/helper-remap-async-to-generator>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-remap-async-to-generator>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-exponentiation-operator>@babel/helper-builder-binary-assignment-operator-visitor>@babel/helper-explode-assignable-expression>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-parameters>@babel/helper-call-delegate>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@babel/core>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/plugin-transform-runtime>@babel/helper-module-imports>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/helper-module-imports>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-async-to-generator>@babel/helper-module-imports>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/helper-module-imports>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-module-transforms>@babel/helper-module-imports>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-umd>@babel/helper-module-transforms>@babel/helper-module-imports>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-proposal-unicode-property-regex>@babel/helper-regex>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-dotall-regex>@babel/helper-regex>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-sticky-regex>@babel/helper-regex>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-unicode-regex>@babel/helper-regex>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-block-scoping>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-classes>@babel/helper-define-map>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>@babel/helper-simple-access>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-module-transforms>@babel/helper-simple-access>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-umd>@babel/helper-module-transforms>@babel/helper-simple-access>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-simple-access>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-amd>@babel/helper-module-transforms>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-commonjs>@babel/helper-module-transforms>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-babel>@vue/babel-preset-app>@babel/preset-env>@babel/plugin-transform-modules-umd>@babel/helper-module-transforms>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>@vue/cli-shared-utils>request-promise-native>request-promise-core>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-service>@vue/cli-shared-utils>request-promise-native>request-promise-core>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>babel-eslint>@babel/traverse>@babel/generator>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>babel-eslint>@babel/traverse>@babel/helper-function-name>@babel/helper-get-function-arity>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>babel-eslint>@babel/traverse>@babel/helper-function-name>@babel/template>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>babel-eslint>@babel/traverse>@babel/helper-function-name>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>babel-eslint>@babel/traverse>@babel/helper-split-export-declaration>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>babel-eslint>@babel/traverse>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>babel-eslint>@babel/types>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>babel-eslint>@babel/traverse>@babel/generator>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>babel-eslint>@babel/traverse>@babel/helper-function-name>@babel/template>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>babel-eslint>@babel/traverse>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>eslint>inquirer>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>eslint>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>eslint>table>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-plugin-eslint>eslint-plugin-vue>vue-eslint-parser>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-service>html-webpack-plugin>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-service>thread-loader>async>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-service>webpack-bundle-analyzer>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-service>webpack-dev-server>http-proxy-middleware>lodash": {
+    "fix": 1
+  },
+  "1065|@vue/cli-service>webpack-merge>lodash": {
+    "fix": 1
+  },
+  "1068|@vue/cli-service>lodash.defaultsdeep": {
+    "fix": 1
+  },
+  "1070|@vue/cli-service>lodash.defaultsdeep": {
+    "fix": 1
+  }
+}
